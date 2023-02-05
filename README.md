@@ -8,7 +8,7 @@ Name : Abdulkafi Dahir Eid
 ID : C119649
 Class CA193
 
-Login Diteal
+Login Details
 Email : ifiye@gmail.com
 password : 123
 
